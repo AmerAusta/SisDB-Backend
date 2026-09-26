@@ -1,0 +1,7 @@
+# .NET Core / Visual Studio ignores
+[Oo]bj/
+[Bb]in/
+.vs/
+*.user
+*.suo
+appsettings.json
